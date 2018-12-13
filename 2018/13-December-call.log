@@ -1,0 +1,224 @@
+[22:08:39] ! madmanwithabox joined
+[22:08:42] <madmanwithabox> Hi
+[22:08:49] ! Manaskashyap[m] joined
+[22:08:57] <cli_ninja> ILUG-D is getting inactive!
+[22:09:05] <Manaskashyap[m]> yeah it is
+[22:09:07] <madmanwithabox> Yep. That's what we're here to talk about
+[22:09:15] <madmanwithabox> https://pad.disroot.org/p/ILUGD_POA_questionmark
+[22:09:16] <cli_ninja> Right
+[22:09:17] ! arcsaber joined
+[22:09:27] <cli_ninja> Where do you guys this is the problem?
+[22:09:39] <Manaskashyap[m]> hi guys , can anyone see my chat
+[22:09:43] <arcsaber> yo can someone see this
+[22:09:45] <madmanwithabox> Yep. I can see you manas
+[22:09:49] <madmanwithabox> and arcsaber
+[22:09:57] <arcsaber> sweet
+[22:10:11] <arcsaber> why arent we using hangouts
+[22:10:41] ! 2 users joined
+[22:10:45] <madmanwithabox> Hellozee, manaskashyap[m] and libregeekingkid (raju) can't
+[22:10:55] <arcsaber> why
+[22:11:10] <madmanwithabox> Bad network
+[22:11:13] <madmanwithabox> Read the TG Chat
+[22:11:18] ! sakshisangwan joined
+[22:11:19] <Manaskashyap[m]> bad very bad
+[22:11:19] <Manaskashyap[m]> jio
+[22:12:11] <hellozee[m]> plus it is easier to make a MOM from the logs
+[22:12:15] <madmanwithabox> So. First things first, the problem is that the old volunteers aren't available anymore. TK, Sahil, Shyam. All these guys used to keep the community ticking
+[22:13:07] <madmanwithabox> For instance, TK used to send those interesting questions like the weird behaviour of `yes` and stuff. That used to engage the more experienced users.
+[22:13:37] <sakshisangwan> Right, remember that.
+[22:13:46] <Manaskashyap[m]> yeah
+[22:13:53] <madmanwithabox> And ILUG-D used to push for getting talks and did meetups in a bunch of different places. Who remembers those CSDS meetups and JNU meetups. Places that would attract potential crowd
+[22:13:57] <madmanwithabox> Colleges etc.
+[22:14:17] <Manaskashyap[m]> i agree
+[22:14:19] <madmanwithabox> Remember when anuvrat and others did that thing for ALiAS Amity
+[22:14:26] <madmanwithabox> Introducing people to FOSS
+[22:14:44] <madmanwithabox> So it mainly boils down to a lack of volunteers.
+[22:14:48] <Manaskashyap[m]> yeah , because ALIAS was already there but it wasnt active
+[22:14:52] <madmanwithabox> Here's my proposal of how we fix that:
+[22:14:53] <Manaskashyap[m]> so they came to active it
+[22:15:16] <Manaskashyap[m]> but jatin , what i think is keeping meetups in cp attracts lot of people , and better talks
+[22:15:23] <madmanwithabox> 1) The current people here need to start paying ILUG-D more attention. Get venues, take talks if none other are willing to. Engage the audience
+[22:16:16] <madmanwithabox> 2) Become more active on Social Media. Like LCI does now, we need to get more people to give talks, go to places where you can introduce more people to FOSS and Linux
+[22:17:32] <cli_ninja> Right, thanks for inputs.
+[22:17:35] <madmanwithabox> 3) Make the community more "user friendly" (if you will). The community needs to have guidelines on communication. What is appropriate, what is not. What is offensive, what is discouriging or unhelpful. And these need to be enforced. Doesn't mean we just ban everyone who is a bit out of place too though. The moderation will be at the moderator's discresion
+[22:17:36] <cli_ninja> What about others?
+[22:17:50] <cli_ninja> Where do you think is the problem?
+[22:18:01] <madmanwithabox> Yes, now I'd love to hear what other's think of it
+[22:18:39] <sakshisangwan>  I believe the lack of volunteers is the biggest hurdle right now
+[22:19:15] <hellozee[m]> agree with the point that ILUGD has almost stopped having meetups in Colleges, the last I remember was in March probably in IIITD
+[22:19:36] <cli_ninja> +1 for college meetups....
+[22:19:42] <madmanwithabox> +1 (to both), we need to seek volunteers. Tell them the community needs volunteers espcially now, and what they'll get out of the experience
+[22:19:57] <sakshisangwan> And we need to have stand alone meetups for ILUGD, for a while there have only been collaborative meetups
+[22:20:12] <madmanwithabox> Yeah, since Aug 18, AFAIR
+[22:20:25] <Manaskashyap[m]> new topics and interesting plus 1 week for getting buzz for meetups
+[22:21:07] <hellozee[m]> also we need someone particular to handle the social media, other than going active only when we are going to have a meetup
+[22:21:10] ! Xeon joined
+[22:21:15] <cli_ninja> IMHO the idea of active volunteers is a bit discouraging for new volunteers to step in. Consider it like this: If anyone wants to contribute they might get a feel that 'x' and 'y' are volunteers and they will be doing everything so a new member might be refraining from volunteering. I really like how some communities announces 'Everyone is a volunteer here'. Or we do a time to time call for new volunteers announcements!
+[22:21:32] <arcsaber> +1
+[22:22:10] <madmanwithabox> Yes, so I've started using the term "active volunteer" here only since that's what's been happening. But I like the shift in vocab. I think that'll be helpful
+[22:22:11] <utkarsh2102> 0.000000001$: Have workshops instead of talks. So people can follow and can actually "gain" something. cli_ninja and rajudev can do something with the hardware. And that'd be really cool!
+[22:22:13] <Manaskashyap[m]> we need to preplan our meetups
+[22:22:24] <cli_ninja> And give new people a chance to send venur partner invites, make posters etc
+[22:22:27] <sakshisangwan> We can do that in the meetups maybe? Or put out a call for volunteers on monthly basis on social media?
+[22:23:14] <arcsaber> yeah with memes! they portray a fun and open community
+[22:23:17] <madmanwithabox> utkarsh2102 workshops usually have more overhead. Other than that I agree too. We used to have Raspberry Pi Jams. Those were some of the best ILUGD meetups
+[22:23:41] <madmanwithabox> cli_ninja: Yes, that's a good idea
+[22:23:43] <hellozee[m]> I think what we need is some aggressive social media marketing
+[22:23:49] <utkarsh2102> "overhead"?
+[22:24:05] <cli_ninja> I think we should plan next 2 meetups together for say next quarter and announces CFV on telegram, social media, mail chains for every next meetup beforehand and encourage new members to help in organising, making posters, giving them responsibilities and appreciating the work afterwards at the end of meetups.
+[22:24:26] <Manaskashyap[m]> +1 with Ayan
+[22:24:53] <madmanwithabox> cli_ninja: Yes, that's what I've been thinking of doing with LCI too. Ping multiple venue partners for dates like PyDelhi does
+[22:25:17] <cli_ninja> Appreciation of work is missing and if anyone is devoting time to do something for community they deserves appreciations and everyone's thanks
+[22:25:35] <sakshisangwan> But first things first. I remember kuntal once started out talking about having a meetup but people didn't respond and no one volunteered for anything, thus the meetup got cancelled. We need to somehow initially bridge that gap and start having atleast regular meetups
+[22:26:04] <arcsaber> oh k so first let's analyze the problems
+[22:26:12] <arcsaber> what stops us from doing meetups?
+[22:26:21] <madmanwithabox> A lack of volunteers
+[22:26:21] <cli_ninja> 1. No regular <good> meetups!
+[22:26:33] <arcsaber> alright so
+[22:27:00] <cli_ninja> I will be available for volunteering for next couple of months and I'll also encourage other new members to do the same, I hope this solves 1.
+[22:27:27] <cli_ninja> 2. Meetup structuring is quite loose these days
+[22:27:36] <cli_ninja> one feedback I'm getting
+[22:27:53] <cli_ninja> We need to plan good meetups in terms of content
+[22:28:08] <cli_ninja> Have one beginner friendly talk, one intermediate and one advance maybe?
+[22:28:12] <cli_ninja> Proposal
+[22:28:18] <cli_ninja> Also few feedbacks
+[22:28:20] <Manaskashyap[m]> i am available for volunteerinig from now on
+[22:28:24] <cli_ninja> It's a core LINUX group
+[22:28:27] <arcsaber> I think themes should be better @cli_ninja
+[22:28:30] <cli_ninja> but no Linux centric talks since long
+[22:28:36] <arcsaber> we should have a themed meetup
+[22:28:40] <arcsaber> one for beginners
+[22:28:43] ! sakshisangwan_ joined
+[22:28:50] <madmanwithabox> Yeah, so for that, there need to be people who make that good content. Seems like currently, the volunteers (people here) need to make that content
+[22:28:56] <madmanwithabox> At least until we can get more people to do it
+[22:29:04] <madmanwithabox> Probably within the next two meetups
+[22:29:08] <cli_ninja> can we atleast do
+[22:29:08] <madmanwithabox> +1 to arcsaber on themed meetups
+[22:29:16] <cli_ninja> "1 LINUX only talk"
+[22:29:20] <cli_ninja> in every meetup
+[22:29:22] <hellozee[m]> IMO we should hold a regular meetup this month and announce about the Raspberry Pi series that we are starting this from the first week of january
+[22:29:53] <cli_ninja> About Rpi jam I've eyes on it, as soon as they announce will get our slot!
+[22:30:07] <madmanwithabox> Who's they in this context?
+[22:30:21] <cli_ninja> Rpi foundation
+[22:30:21] ! rajudev joined
+[22:30:28] <madmanwithabox> Oh wow!
+[22:30:30] <madmanwithabox> Awesome!
+[22:30:38] <arcsaber> BTW I have some really awesome talks alight for december end
+[22:30:59] <cli_ninja> What other problems you see? shoot!
+[22:31:00] <madmanwithabox> Make those issues arcsaber at the repo. Our last issue was on November seventh, I think
+[22:31:16] <Manaskashyap[m]> as far as i remember , we had an un finshed debian packaging talk
+[22:31:35] <hellozee[m]> cli_ninja: we can make small teaser about RPi jam, can't we?
+[22:31:35] <cli_ninja> We can skip specifics for now
+[22:31:37] <arcsaber> @madmanwithabox cool will do. just gotta get these exams over
+[22:31:41] ! sakshisangwan disconnected
+[22:31:47] <cli_ninja> Let's focus on general issues
+[22:32:00] <sakshisangwan_> We should also do something about upstream contributions.
+[22:32:02] <madmanwithabox> cli_ninja: The last thing I want to bring up is moderating the chat. People need to build each other up, not tear each other down. We need to make sure the converstaion is constructive towards either Linux/FOSS or just people bonding (primarily the first)
+[22:32:15] ! Xeon disconnected
+[22:32:24] <cli_ninja> @hellozee: rpi jam generally happens in March across globe we can make the teaser in feb end!
+[22:32:27] <madmanwithabox> We need to create an environment where people can easily jump in and talk and feel comfortable and welcome
+[22:32:59] <madmanwithabox> sakshisangwan_: Yeah, something like PyDelhi's dev sprints. Maybe a kernel dev sprint too if possible :P
+[22:33:08] <madmanwithabox> That would be great if it happened
+[22:33:36] <arcsaber> very few people would be actually up for a kernel devsprint but it would be cool nonetheless
+[22:33:44] <cli_ninja> madmanwithabox: Totally, my proposal is one volunteer takes responsibility of posting 1 Linux related tip and 1 linux related questions
+[22:33:59] <cli_ninja> People will participate we monitor the conversation and we moderate it
+[22:34:09] <cli_ninja> educating the community ways as we go!
+[22:34:28] <cli_ninja> For moderation there needs to be a communication first :P
+[22:34:51] <madmanwithabox> cli_ninja: Haha, yes. Let's do that. Aand ILUGD has a subreddit. Let's compile all the questions and tips on the subreddit
+[22:34:58] <madmanwithabox> Let's make use of that forum too
+[22:35:01] <hellozee[m]> cli_ninja: I was talking about the RPi workshop series, https://github.com/ILUGD/talks/issues/87
+[22:35:46] <cli_ninja> madmanwithabox: Cool, let's post these daily and try to start conversation in a healthy manner!
+[22:36:07] <madmanwithabox> Yep! So to summarize:
+[22:36:16] <madmanwithabox> 1) Post questions/tips daily
+[22:36:32] <madmanwithabox> 2) Hold more meetups and advertise them better
+[22:36:39] <cli_ninja> hellozee[m]: Regarding this workshop let's plan and discuss in next meetup, when hardware comes into picture some serious efforts are needed!
+[22:36:56] <hellozee[m]> nice, arcsaber and all if you people post any memes on reddit be sure to tag /r/ILUGD/
+[22:37:10] <arcsaber> coolio
+[22:37:11] <madmanwithabox> 3) Get new people to start contributing to the community right away (posters, venues, etc.)
+[22:37:22] <madmanwithabox> 4) Moderate the chat better
+[22:37:26] <madmanwithabox> Did I get all of them?
+[22:37:34] <cli_ninja> anaskashyap[m]
+[22:37:42] <cli_ninja> sorry !
+[22:37:48] <madmanwithabox> whut
+[22:37:57] ! rajudev_ joined
+[22:38:02] <cli_ninja> madmanwithabox: Yes seems good!
+[22:38:09] <arcsaber> alright can i make an announcment on the group?
+[22:38:14] <hellozee[m]> madmanwithabox: for the 3rd point we need to preplan meetups and fix a date, so that the new people could immediately start working on tasks
+[22:38:35] <cli_ninja> Right
+[22:38:37] ! rajudev_ disconnected
+[22:38:39] <madmanwithabox> hellozee[m]: Yes. We can use the Venues LCI has (like NIPFP) if/when needed
+[22:38:50] <madmanwithabox> I'm not sure what "venue partners" ILUGD has
+[22:38:58] <madmanwithabox> Do we call them venue partners?
+[22:39:02] ! rajudev disconnected
+[22:39:04] <hellozee[m]> we can distribute the tasks on the spot if any task remains, we can assign that to ourselves or anounce that in the group
+[22:39:20] <cli_ninja> Can someone come forward and take this responsibility right away for next 1 month atleast of posting 1 tip and 1 question in TG daily?
+[22:39:21] ! rajudev_ joined
+[22:39:25] <hellozee[m]> madmanwithabox: umm we have list of POCs as far as I remember
+[22:39:45] <hellozee[m]> cli_ninja: I can handle the twitter
+[22:39:52] <madmanwithabox> hellozee[m]: Yeah, I too haven't been active in a while :P
+[22:40:04] ! rajudev_ disconnected
+[22:40:10] <madmanwithabox> cli_ninja: I can do it after 21st. That's when my exams end
+[22:40:16] <cli_ninja> hellozee[m]: Perfect
+[22:40:16] <hellozee[m]> Anyone who like to do the same from facebook side?
+[22:40:34] <sakshisangwan_> I can do that
+[22:41:03] <cli_ninja> madmanwithabox: Till 21st I'll do it
+[22:41:15] <madmanwithabox> cli_ninja: awesome
+[22:41:19] <cli_ninja> What according to you is best time to start tech conversations in the group
+[22:41:24] <cli_ninja> When folks are most active
+[22:41:28] <hellozee[m]> nice, sakshisangwan_  pradhvan has the access, as far as I remember
+[22:41:50] <arcsaber> i have seen people too be the most active on saturday nights at 9
+[22:41:52] <madmanwithabox> We can actually pin the question/tip for the day. We'll pin at around 6/7 PM, when most people are done with college/work
+[22:41:56] ! ajax_ joined
+[22:42:01] <sakshisangwan_> hellozee: ask him if he can do that?
+[22:42:06] <cli_ninja> Perfect!
+[22:42:19] <hellozee[m]> sakshisangwan_: okay
+[22:42:22] <hellozee[m]> arcsaber: can you handle the same for reddit?
+[22:42:31] <cli_ninja> So I think we're good to wrap this one and start with tasks right away! Maybe plan the next meetup...
+[22:42:40] <arcsaber> sure
+[22:42:50] ! utkarsh2102 disconnected
+[22:42:52] <Manaskashyap[m]> yeah
+[22:42:53] <arcsaber> gotta get more people involved though
+[22:42:56] <madmanwithabox> Yep. The date for the next meetup should be... *checking meetup.com*
+[22:44:03] <madmanwithabox> 12 Jan according to meetup.com
+[22:44:12] <madmanwithabox> We can plan one for new year's befor ethat :P
+[22:44:19] <hellozee[m]> madmanwithabox: too late
+[22:44:27] <madmanwithabox> So two this month?
+[22:44:33] <madmanwithabox> Willl we have enough time for two?
+[22:44:44] <hellozee[m]> madmanwithabox: I don't think so
+[22:44:45] <cli_ninja> Let's plan one meetup before christmas
+[22:44:50] <Animesh> I won't be available then
+[22:44:53] <hellozee[m]> what about 22nd Dec?
+[22:45:04] <arcsaber> that would be perfect @hellozee
+[22:45:05] <madmanwithabox> That would be 22nd Dec. 23 Dec is LCI+PyLadies birthday
+[22:45:12] <madmanwithabox> Both communities, yes
+[22:45:19] ! rajudev joined
+[22:45:35] <madmanwithabox> Keeping them this close works?
+[22:45:53] <hellozee[m]> madmanwithabox: I don't think we have any option, sadly
+[22:46:01] <arcsaber> well then that kinda defeat the purpose of this convo
+[22:46:04] <Animesh> Is there no meetup this weekend?
+[22:46:11] <madmanwithabox> Okay, LGTM then
+[22:46:12] <cli_ninja> Oh one more thing, that unofficial meetup beneath open sky was amazing, we should plan one more professionally, like once in 6 months!
+[22:46:28] <madmanwithabox> Yep! Let
+[22:46:30] <Animesh> @cli_ninja +1
+[22:46:32] <madmanwithabox> 's do it
+[22:47:01] <Animesh> But make it atleast once in 2 months
+[22:47:17] <cli_ninja> Will surely see as we go :)
+[22:47:23] <hellozee[m]> One more thing, instead of Lightning Talks section we could have something more informal, I guess, like a show and tell session or tell about the thing you are working on nowadays
+[22:47:32] <cli_ninja> Ok we can move back to telegram for meetup planning
+[22:47:48] <cli_ninja> hellozee[m]: +1000
+[22:47:49] <hellozee[m]> that way we can encourage the new participants to take charge
+[22:47:57] <arcsaber> we should have podcasts replacing the lightning talk
+[22:48:08] <cli_ninja> Maybe essential non tech things that I started at LCI
+[22:48:55] <arcsaber> alright lemme just ask all new members to be active
+[22:49:17] <sakshisangwan_> cli_ninja: +1 that was really nice
+[22:50:23] <cli_ninja> Cool, so I gotta go! I'll be on TG after this if anything else needs to be discussed and have already started posting thing, just participate in convo and make the conversation looks inviting and friendly so more people can easily jump in :)
+[22:50:29] <hellozee[m]> pulling of a podcast is difficult, according to our current model, we have to change it to a more proprietary one if we want, but doing so will defeat the purpose of the group
+[22:50:34] <cli_ninja> exit (0);
+[22:50:39] <madmanwithabox> Okay, so now we seem to be talking about regular meetup planning stuff. I think this "call" has served it's purpose. I'll share the chat on the TG Group
+[22:50:42] <madmanwithabox> Let's end this here
+[22:50:55] <madmanwithabox> hellozee[m]: I think the podcast will have to take a back seat now
+[22:51:01] <hellozee[m]> :wq for now then
+[22:51:07] <sakshisangwan_> Oh
+[22:51:07] <madmanwithabox> We'll get back to that once community is up and running again
+[22:51:08] <madmanwithabox> :x
+[22:51:22] <madmanwithabox> Good talk everyone
