@@ -1,40 +1,47 @@
-### Discussion on ILUGD Summer Projects Program
+### Date - 18 May, 2019 
 
-- Most Discussed & Preferred Idea : Automate Meetup Organizing Process
-    Some Points suggested
-    - Automate taking feedback of talks & event
-    - Automate email sending to previous venue holders for requesting venue
-    - Automate the process of finding open talks on github.
-    - Panel, where organizer can simply fill in the details.
+### Agenda - Finalizing idea for summer project
 
-- Divide the "Automate Meetup Organizing" idea into different modules, where each module could be potential project in summers
-    - Benefits :
-        - Student will learn how to work on modular project & how to work with different teams working on a project.
-        - Students having different skill sets could work on different modules
+### Attendees - 
+Ayan Pahwa, Nilesh, Piyush, Rohan, Nikhil, Shobhit, Alok, Soumya, Preeti, Sachin, Sanshay, Rituka
 
-- Need for more refinement on "Automate Meetop Organizing" idea.
+### Platform used - Discord
 
-- A brief discussion on "Customized distro generator"
-    Problem mentioned : 
-        - Dependencies could easily break
-        - Have to create more patches
-        - It could become forever maintaining project. 
+### Discussion Points -
 
-- Try to bring projects ideas for newbies & intermediates.
+1. Idea finalized - Automated Meetup Organizer
 
-- Mentors take those project where they could give appropriate time to project.Don't take too big project where you could give only little time only.
+2. Project aims at covering following points
+    - Platform as servise
+    - Call for talk
+    - Call for venue
+    - Poster creation
+    - Promotion 
+    - RSS feed generation for meetups
+    - Talk resource generation
+    - Talk feedback
+    - Feedback collection
+    - Diversity
+    - Inventory management
 
-- Mention of "Proposal System" where each student would give the proposal what he/she could do/contribute and their ideas to theme "Automate Meetup Organizer" for summer project.
-    - Benefit : We get to know how many students are really interested in program with this. And only interested students will come
+3. Project will be broken down in subprojects. These subprojects will cover difficulty level from low to high, so that both newbies and good developers can be part of it.
 
-- (For Next Meetup: 25th May, 2019)First Take more ideas/inputs from attendees about the summer projects at ILUGD. And then disclose our discussed ideas.
+### Actions to be taken -
 
-- Spread words about next ILUGD meet-up but don't spam groups
+1. Create proposal sheet for theme "Automated Meetup Organizer"- To take response and ideas from others and to boost their enthusiam and interest in the project.
+    - Assigned to Rituka
 
-**Tasks**
-- Handling of Proposals: Rituka Patwal
+2. Discuss the ideas from proposal sheet during the meetup.
 
+3. Create a promotional message and poster for meetup to be held on 25 May, 2019.
+    - Assigned to - *to be decided*
+    
+   > Note: Spread words about the meet-up but don't spam groups.
 
+4. Think of a cool name for the project.
 
-
-
+## Conclusions and Tips-
+- Work on idea "Automated Meetup Organizer"
+- Try to cover all level of developers - beginner to advance. 
+- Try working on subproject that require new skills.
+- Mentors should take project where they can give fare amount of time and considering their other commitments.
