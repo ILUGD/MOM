@@ -12,7 +12,7 @@ Ayan Pahwa, Nilesh, Piyush, Rohan, Nikhil, Shobhit, Alok, Soumya, Preeti, Sachin
 1. Idea finalized - Automated Meetup Organizer
 
 2. Project aims at covering following points
-    - Platform as servise
+    - Platform as service
     - Call for talk
     - Call for venue
     - Poster creation
