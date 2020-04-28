@@ -1,0 +1,31 @@
+Attendance:
+
+Animesh, philo, ajx, alok, soumya, cvam, zeon, mason, ayan, manav
+
+- Template for poster --> issue will be opened after this call and will be assigned to someone.
+
+- Intercommunity common call --> postponed  in lieu of linux conf
+
+- Mailing lists archive --> hellozee and raju will open new list. Both are absent today. 
+
+- Automaion sync on github --> obsolete for now
+
+- Credential Management --> raju's idea and he's absent
+
+- Facebook messaging bot to Telegram bot bridge --> issue will be opened after the call
+
+- All india virtual conf. Ayan - open issue --> [issue was opened](https://github.com/ILUGD/volunteers-tasks/issues/10). hellozee will be available after 30th and then he'll take the lead. Also, after 30th we'll have regular meetup.
+
+- https://github.com/ILUGD/volunteers-tasks/issues/11 --> asigned to arjoon aka @thesage21
+- https://github.com/ILUGD/volunteers-tasks/issues/8  --> assigned to raju aka @rajudev
+- https://github.com/ILUGD/volunteers-tasks/issues/12 --> assigned to manav aka @insaanimanav
+
+-----
+MISC
+
+(Many) --> We'll discuss the policies on the github issue.
+
+Soumya --> Blogs after every meetup to track contributions of each and every memeber.
+
+Ayan --> Lets comment on closed talk issues on github and ask them to take the session again but this time it'll be virtual and will be recorded.
+
