@@ -1,0 +1,52 @@
+Attendance:
+
+Animesh, cvam, xeon, ayan, manav, hellozee, jasmeet, ruchika, arjoon, rajudev, mason
+
+-------
+LAST WEEK
+-------
+- Template for poster --> completed by Ruchika, needs to be pushed to assets repo, let's commit all the created assets going further including poster.
+
+- Mailing lists archive --> hellozee: No reply on email, rajudev has started working on new mailing list
+at fsci, to get custom domain for the mailing list we need access to our domain DNS for which he is further \ 
+syncing on call with the domain owner
+
+- Credential Management:
+
+1) OTP issue -- hellozee
+2) misuse of credentials and access -- xeon
+3) GPG and git based management system -- raju
+4) hold it till physical meetup, explain by doing then move ahead with this solution once all are on same page -- ayan
+
+- Facebook messaging bot to Telegram bot bridge --> Issue has been created, manav will start working as soon as he gets time.
+- All india virtual conf. Ayan - open issue --> [issue was opened](https://github.com/ILUGD/volunteers-tasks/issues/10). hellozee will be available after 30th and then he'll take the lead. Also, after 30th we'll have regular meetup.
+- Github policies defining roles of active members --> Issue was supposed to be created last week, but haven't so pushing it to the current week. hellozee will create an issue and everyone will share their feedbacks
+
+-------
+CURRENT WEEK
+-------
+
+- CoC Issue :
+
+The current CoC clause "Using and promotion use of gender neutral pronouns" *encourages* members to use neutral pronouns.
+No one in the past has been blocked but rather educated in right way when not using the neutral pronouns, so in the interest of community,
+we don't see a need to remove this clause from the CoC as of now, though we definitely can encourage the members to put their preffered pronouns
+in their TG bio, so anyone addressing them can refer that before hand, but when addressing a wider audience / entire group we still recommend using gender
+neutral pronouns, refer- https://heyguys.cc to know more ...
+
+- Github policies :
+
+hellozee will create an issue and everyone can put their comments on what are expected benchmarks to consider as active member in ILUGD org github
+
+- New Issues this week :
+
+1. Survey - https://github.com/ILUGD/volunteers-tasks/issues/13 - @all, @arjoon __IMPORTANT__ (Due date: thursday)
+2. Mailing list archives -- @hellozee, @rajudev
+3. Videos to peertube -- @rajudev, @xeon, @manav
+4. Weekly Quiz -- @alok can make the quiz, needs a host (open)
+5. Youtube username and custom url -- done -- https://youtube.com/linuxdelhi
+
+- Linux virtual conf :
+
+We're going ahead with virtual linux conf, more to be planned and discussed on Github issue, need to create a new TG group for discussion and cross connection with Zulip.
+
