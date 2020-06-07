@@ -1,10 +1,10 @@
-### Meeting Type: Eg- Community Call
+### Meeting Type: Eg- Community Call //Only specify this in case of special meetings
 
-### Date: DD Month, YYYY 
+### Date: DD/MM/YYYY
 
 
 ### Agenda:
- Mention Agenda
+ Mention Agenda //Only in case of special meetings 
 
 ### Attendees: 
 List the attendees
@@ -29,5 +29,16 @@ Mention the platform on which discussion happened
 
 1. 
 2. 
+
+### Tasks Postponed/Left 
+
+1.
+2.
+
+## Discuss About HHC 
+1.
+2.
+3.
+
 
 ### Conclusion :
