@@ -1,0 +1,91 @@
+Attendees : 
+  Aaryan, Ayan, Kishore, Animesh, Xeon, Sahil, Manav, Mason
+  
+```
+Old notes from Ayan : 
+  - live coding and deployment
+  - live project builds streams 
+  - CTFs
+  - chaos engineering online version
+  - scribble
+  - gaming nights 
+  - show n tell 
+  - Panel discussions
+  - AMA
+
+  moderated panel discussions within our community as well as from external people
+```
+
+***
+
+* point (Who made the point)
+
+### Brainstorming of Old ideas by Ayan
+
+1. Live coding
+  * Arduino and/or cktpy -> basic hardware stuff (Ayan)
+  * Bash scripts -> small project related to web crawling, regex, io, sed/awk/gawk, notifs, etc (Ayan)
+  * Browser extensions -> Amazon price tracker, meetup tracker, etc (Kishore)
+  * APIs interfacing (Aaryan)
+  * News updates in notif bar (Sahil)
+  * Basic LKM by cvam/ayan (Ayan)
+ 
+2. Live project builds streams
+  * GTA SA Chaos machine using cktpy by mason (Ayan)
+  * Other Cktpy programs with live output (Mason)
+  * Boot ARM OS on qemu | Qemu 101 (Ayan)
+  * KiCad 101 but with a STM32 example (Mason)
+  * RE (Ayan & Xeon)
+    - HW
+    - SW
+  * Board Bringup (Ayan & Xeon)
+
+3. CTF
+  * Solving an old ques but dont think that i'll be able to solve it (Mason)
+
+4. Chaos Engg Online Version
+
+5. Gaming Nights/Days/Afternoons/Evenings/LateNights
+  * Scribble
+  
+6. Moderated Panel Discussion
+  * Work prospects in a domain
+  * Data Privacy and Security
+  * How coding should be taught to kids / students (Kishore)
+  * Bootstrapping your career (Ayan & Xeon)
+  * Init systems wars (Kishore)
+  * Is competetive coding really the way to go for a job? (Mason)
+  * Arch choices available (Ayan)
+  * Going 100% FOSS, possible? (Ayan)
+  * Future of FOSS in Indian Education System (Mason) (Get someone from govt)
+
+7. AMA
+  * Core Linux by Xeon (maybe after 10 years)
+  * Digital Rights and Privacy by Lawyers from IFF/SFLC.in
+
+***
+
+### More Ideas?
+
+* What about some research paper talks, where the author reads some paper and explains the overarching concepts of some research paper. (Kishore)
+  - The audience should read the paper once before attending so it'll be easy to understand and they'll be able to ask
+    relevant queries.
+* Ricing phone/pc/washingmachine/whatever (Xeon)
+* IDE Power Usage (Kishore & Ayan)
+
+***
+
+### Next Talk
+
+* A look into emulators by Kishore Ganesh ([link](ILUGD/talks/issues/178))
+  - Volunteers needed for stream assets
+    * lets make a general asset for streaming
+  - Volunteer needed for anchoring during live session
+
+***
+
+### After next talk
+
+* Introduction to ARM M4 by Shivam Chaudhary ([link](ILUGD/talks/issues/152))
+* Kalpana by Arjoon ([link](ILUGD/talks/issues/177))
+* Introduction to Redis by Mridu ([link](ILUGD/talks/issues/129)) (Long due, contact Mridu first)
