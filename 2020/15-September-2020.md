@@ -21,6 +21,9 @@ Comments from others :
     - requirements
       - volunteer for this event
 
+Possible next talks:
+    - [Introduction to Redis](https://github.com/ILUGD/talks/issues/129) waiting for a reply. Otherwise [lambda calculus](https://github.com/ILUGD/talks/issues/177)
+
 
 
 ## Next Call :
