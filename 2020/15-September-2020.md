@@ -13,6 +13,14 @@ Comments from others :
   - (aaryan) AMA related to opensource contribution.
     - (ayan) we can ask the interested ones to join friday's community call. we can
       have an AMA on that day.
+      
+   ALL DAY DEVOPS
+    suggesitions
+      - viewing party
+      - host a talk
+    - requirements
+      - volunteer for this event
+
 
 
 ## Next Call :
